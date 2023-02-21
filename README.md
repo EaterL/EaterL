@@ -1,4 +1,6 @@
-# [Daily Random Photo](https://www.dailyrandomphoto.com/)
+# Welcome to My Homepage
+:smile:Here is a code programmer from Guangdong, China
+:kissing_heart:You are welcome to contact me through the email on the home page
 
 <div align="center">
   <br>
